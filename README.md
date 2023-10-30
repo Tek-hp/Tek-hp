@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Fast API.
 - 💬 Ask me about : Programming, Rap, Development.
 - 📫 How to reach me: `tekrajojha6@gmail.com`
-- 🪪 Resume : https://shorturl.at/xyBRW
+- 🪪 Resume : www.tekrajojha.com.np
