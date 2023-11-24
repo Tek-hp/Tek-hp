@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am Tek. I am a Flutter developer from Nepal and am Currently looking for remote jobs.
+#### I am Tek. I am a Flutter developer from Nepal and am Currently working at [Young Innovations](https://younginnovations.com.np/).
 <!-- 🔭 I’m currently working on ...
 -->
 - 🌱 I’m currently learning Fast API.
